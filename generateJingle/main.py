@@ -41,10 +41,5 @@ def main():
 
     print(result)
 
-    # You can also invoke functions like this
-    # result = await jokeFunction.invoke_async("time travel to dinosaur age")
-    # print(result)
-
-
 if __name__ == "__main__":
     main()
