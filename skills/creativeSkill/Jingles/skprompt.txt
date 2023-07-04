@@ -1,0 +1,12 @@
+Generate a catchy advertising jingle for the given product. Be creative and be funny. Let your imagination run wild.
+
+Product : Fruit Jam
+Jingle: Sweet and tangy, flavors so fine,
+Spread our jam, taste the divine.
+Fruitful delight, from nature's hand,
+In every bite, a burst so grand.
+
+Product: {{$input}}
+
+Restrict jingle in 4 lines.
+
